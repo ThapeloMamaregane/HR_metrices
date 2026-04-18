@@ -1,2 +1,2 @@
-# HR_metrices
-Dashboard about a startup company data set
+# hr-metric-2026
+This is an Human Resource metrics
